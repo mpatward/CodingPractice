@@ -2,7 +2,7 @@
  * @author mandar
  *
  *Merge sort is a divide and conquer approach based algorithm.
- *The time complexity is Theta(n*log n).
+ *The time complexity is O(n*log n) in worst case. with O(n) space complexity.
  *
  *
  */
@@ -64,7 +64,7 @@ public class MergeSortRecursive {
 	}
 	
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		
 		int array[]={11,2,33,4,65,36,37,187,92,420};
 		mergeSort(array);
 		for(int i=0;i<array.length;i++){
