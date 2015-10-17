@@ -1,4 +1,11 @@
-
+/**
+ * @author mandar
+ *
+ *Merge sort is a divide and conquer approach based algorithm.
+ *The time complexity is Theta(n*log n).
+ *
+ *
+ */
 public class MergeSortRecursive {
 
 	/**
