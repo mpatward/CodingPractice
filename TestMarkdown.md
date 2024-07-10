@@ -1,5 +1,5 @@
 # stress-test-README
-Testing the capability of markdown-it 2234324
+Testing the capability of markdown-it 
 
 ## video (drag and drop to GitHub README editor)
 https://github.com/leehsihaumw/test-readme/assets/151086072/dd1d000f-f6cb-439f-bad6-d653fcac2c2a
